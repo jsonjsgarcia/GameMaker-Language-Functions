@@ -17,7 +17,7 @@ To use the docs JSON file, first add the following line of code to the `<head>` 
 <script type="text/javascript" src="path/to/docs.json"></script>
 ```
 
-You can add the following to the very start of the docs.json file to make the JSON a constant.
+You can add the following to the very start of the docs.json file to make the data a constant.
 
 ```
 const gm_functions = 
