@@ -1,4 +1,4 @@
-# GameMaker Language Functions :: A Comprehensive Unofficial JSON
+# GameMaker Language Functions :: A comprehensive, unofficial digest of every single GM8, GMS1, and GMS2 function
 
 A single JSON file containing every single GameMaker 8, GameMaker: Studio 1, and GameMaker Studio 2 function.
 
