@@ -4,11 +4,11 @@ A single JSON file containing every single GameMaker 8, GameMaker: Studio 1, and
 
 Each function contains:
 
-* Its name
-* What version of GameMaker it's usable in ("GM8", "GMS1", "GMS2")
-* A list of arguments (parameters) it accepts
-* A link to the official YoYo Games documentation, if available
-* A single-sentence description, sourced from the documentation
+* "name" The name of the function
+* "versions": A list of what versions of GameMaker this function can be used in ["GM8", "GMS1", "GMS2"]
+* "args": A list of arguments (parameters) it accepts ['a', 'b', 'c']
+* "url": A link to the official YoYo Games documentation, if available
+* "description":A single-sentence description, sourced from the documentation
 
 ## Instructions
 
