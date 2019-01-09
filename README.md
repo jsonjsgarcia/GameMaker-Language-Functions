@@ -52,5 +52,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* YoYo Games, Ltd. for writing the official documentation and GameMaker Language
+* [YoYo Games, Ltd.](https://yoyogames.com) for writing the official documentation and GameMaker Language
 * This project is in no way affiliated with YoYo Games Ltd., GameMaker: Studio, GameMaker Studio 2, or any related products. All documentation and written word belong to YoYo Games, Ltd. or the respective copyright holders.
