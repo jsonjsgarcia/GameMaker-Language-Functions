@@ -46,7 +46,7 @@ function get_args(function_name) {
 
 ## Authors
 
-* **Zack** - *Initial work* - [PurpleBooth](https://github.com/zbanack)
+* **Zack Banack** - *Initial work* - [Zack Banack](https://github.com/zbanack)
 
 ## License
 
