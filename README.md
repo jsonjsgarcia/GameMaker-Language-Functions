@@ -40,9 +40,7 @@ function get_args(function_name) {
 
 ## Usefulness
 
-```
 [GMLsnip.com](https://www.GMLsnip.com), my dependency-free GameMaker Language syntax highlighter, code pretty-printer, and docs-linker relies heavily on this JSON file to help make learning GameMaker Language effortless.
-```
 
 ## Authors
 
