@@ -2,7 +2,7 @@
 
 A single JSON file containing every single GameMaker 8, GameMaker: Studio 1, and GameMaker Studio 2 function.
 
-Please note that this data has not been curated by hand and may be inaccurate as a result.
+_Please note that this data has not been curated by hand and may be inaccurate as a result._
 
 Each function contains:
 
